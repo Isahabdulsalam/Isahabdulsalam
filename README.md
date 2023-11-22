@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Isahabdulsalam
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on data analysis
+- 🌱 I’m currently learning software engineering
+- 💞️ I’m looking to collaborate on data analysis and software development
 - 📫 How to reach me on isahabadulsalam416@gmail.com 
 
 <!---
