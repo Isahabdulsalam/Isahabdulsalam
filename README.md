@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isahabdulsalam
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently a student software engineering at ALX
 - 💞️ I’m looking to collaborate on data analysis and software development
 - 📫 How to reach me on isahabadulsalam416@gmail.com 
 
