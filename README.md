@@ -1,3 +1,5 @@
+<h1>👋 I am Isah Abdulsalam</h1>
+
 - 👋 Hi, I’m @Isahabdulsalam
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently a student software engineering at ALX
