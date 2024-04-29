@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Isah Abdulsalam</h1>
-<h2>Software Engineering from jigawa state, Nigeria</h2>
+<h3>Software Engineering from jigawa state, Nigeria</h3>
 
 - 👋 Hi, I’m @Isahabdulsalam
 - 👀 I’m interested in learning new skills
