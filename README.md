@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Isah Abdulsalam</h1>
-<h3>A Software Engineering from jigawa state, Nigeria</h3>
+<h3>A Software Engineering from Jigawa State, Nigeria</h3>
 
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently a student software engineering at ALX
