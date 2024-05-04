@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Isah Abdulsalam</h1>
+<h1><center>👋 Hi, I'm Isah Abdulsalam</center></h1>
 <h3>A Software Engineering from Jigawa State, Nigeria.</h3>
 
 - 👀 I’m interested in learning new skills
